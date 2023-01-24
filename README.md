@@ -1,5 +1,6 @@
 # Labb1Git
 
 duck 
-moose
+mouse
 cat
+dog
