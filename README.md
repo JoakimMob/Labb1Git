@@ -1,5 +1,5 @@
 # Labb1Git
 
 duck 
-moose
+mahmut
 cat
